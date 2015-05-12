@@ -62,6 +62,7 @@
     <Compile Include="Creator3.cs" />
     <Compile Include="Creator4.cs" />
     <Compile Include="Creator5.cs" />
+    <Compile Include="Creator6.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
