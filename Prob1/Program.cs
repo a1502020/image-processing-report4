@@ -14,6 +14,7 @@ namespace Prob1
             var creators = new List<Creator>()
             {
                 new Creator1(),
+                new Creator2(),
             };
 
             foreach (var creator in creators)
