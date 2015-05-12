@@ -22,6 +22,7 @@ namespace Prob1
                 new Creator7(),
                 new Creator8(),
                 new Creator9(),
+                new Creator10(),
             };
 
             foreach (var creator in creators)
